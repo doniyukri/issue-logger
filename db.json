@@ -15,18 +15,32 @@
       "date": "2019-05-31T16:18:04.245Z"
     },
     {
-      "message": "1122 wireless down",
+      "message": "CPU on workstation 005 is burning right now",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
+      "tech": "John Doe",
+      "date": "2021-11-10T07:21:48.021Z",
+      "id": 6
     },
     {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
+      "message": "The fire from workstation 005 is spreading in the entire office",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-11-10T08:58:41.075Z",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "message": "Computer is reinstalled",
       "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "tech": "Sam Smith",
+      "date": "2021-11-11T14:39:03.865Z"
+    },
+    {
+      "message": "The entire building is now on fire thank to workstation 005",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-11-12T03:07:24.342Z",
+      "id": 9
     }
   ],
   "techs": [
