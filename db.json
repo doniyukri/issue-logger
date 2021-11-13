@@ -8,13 +8,6 @@
       "id": 1
     },
     {
-      "id": 2,
-      "message": "Fixed hard drive on workstation 002",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
-    },
-    {
       "message": "CPU on workstation 005 is burning right now",
       "attention": true,
       "tech": "John Doe",
@@ -58,6 +51,16 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Johnny",
+      "lastName": "Goode",
+      "id": 4
+    },
+    {
+      "firstName": "Sven",
+      "lastName": "Svenson",
+      "id": 6
     }
   ]
 }
